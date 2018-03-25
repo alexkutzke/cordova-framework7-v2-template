@@ -1,0 +1,1 @@
+# cordova-framework7-v2-template
